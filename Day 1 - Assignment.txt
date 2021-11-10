@@ -1,0 +1,5 @@
+Assignment: Difference between Compiler & Interpreter
+
+Compiler translates the whole program in one time whereas Interpreter translates the program line by line at a time.
+Execution speed is slow for interpreter compared to compiler.
+
